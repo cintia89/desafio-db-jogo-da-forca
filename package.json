@@ -1,0 +1,19 @@
+{
+  "name": "desafio-db-jogo-da-forca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cintia89/desafio-db-jogo-da-forca.git"
+  },
+  "author": "cintia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cintia89/desafio-db-jogo-da-forca/issues"
+  },
+  "homepage": "https://github.com/cintia89/desafio-db-jogo-da-forca#readme"
+}
