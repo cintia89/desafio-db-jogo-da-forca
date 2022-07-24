@@ -1,9 +1,9 @@
 # Jogo-da-forca
 
-Este programa foi desenvolvido para implementar as regras de um jogo da forca.
+Como desafio tecnico do processo seletico da DBServer(2022) foi realizado uma implementação das regras do um jogo da forca.
 
 ## Como executar:
-Para rodar esta aplicação precisa importar ela para sua maquina local. 
+Para rodar esta aplicação na sua máquina local. 
 1. Instalar o [Node](https://nodejs.org/en/)
 2. Instalar dependencias do projeto com o seguinte comando:
 ```bash
